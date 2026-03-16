@@ -1,0 +1,24 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Project_10_SeperatePrimeDivision/Project_10_SeperatePrimeDivision.vcxproj" Id="5fe25841-0eba-4d62-9dec-df945aa5a742" />
+  <Project Path="../Project_11_CompareString/Project_11_CompareString.vcxproj" Id="a2ea7d01-2be8-46c2-8753-4f7da590b65e" />
+  <Project Path="../Project_12_TimeFormatTransfer/Project_12_TimeFormatTransfer.vcxproj" Id="520cb01c-9587-47d1-b65a-5b98895f2f7e" />
+  <Project Path="../Project_18_WaitForWater/Project_18_WaitForWater.vcxproj" Id="1b18bc79-59fb-4ada-9f39-c6b697030a20" />
+  <Project Path="../Project_19_ProduceNumber/Project_19_ProduceNumber.vcxproj" Id="1ce58d9b-af58-4b79-b853-eeda8dc3e733" />
+  <Project Path="../Project_20_StrangeThoughts/Project_20_StrangeThoughts.vcxproj" Id="df9c9772-1749-4557-b6c8-498f4f22cde8" />
+  <Project Path="../Project_21_ModernPoet/Project_21_ModernPoet.vcxproj" Id="c09021eb-a49a-4fda-8435-1f194aeba39c" />
+  <Project Path="../Project_22_CalculateFunctionValue/Project_22_CalculateFunctionValue.vcxproj" Id="14e048e1-40be-408d-be93-087a1a22b078" />
+  <Project Path="../Project_23_Maya'sPasscode/Project_23_Maya'sPasscode.vcxproj" Id="38a2cd19-994c-4ee5-9b2c-099878b11f96" />
+  <Project Path="../Project_2_PalindromicNumbers/Project_2_PalindromicNumbers.vcxproj" Id="be49cb4f-4665-455f-8325-c006f0a41e83" />
+  <Project Path="../Project_3_LetterPicture/Project_3_LetterPicture.vcxproj" Id="ccec3faf-fa59-48f5-927f-92d9d75fb234" />
+  <Project Path="../Project_4_CalculateLargeFactorial/Project_4_CalculateLargeFactorial.vcxproj" Id="13d99bc3-33bd-4b0d-8435-406d7ea8b759" />
+  <Project Path="../Project_5_GetNumByCircle/Project_5_GetNumByCircle.vcxproj" Id="31a30d58-172c-40d9-bd4b-dfaa4ceb87b6" />
+  <Project Path="../Project_6_TrutleVSRabbit/Project_6_TrutleVSRabbit.vcxproj" Id="049b9e90-e129-465a-9351-31ec9b94c04e" />
+  <Project Path="../Project_7_SineDance/Project_7_SineDance.vcxproj" Id="be523106-8160-4aa3-bc80-e880ea002241" />
+  <Project Path="../Project_8_RectangleArea/Project_8_RectangleArea.vcxproj" Id="ebba4d64-5f2a-4887-b515-c5318395c1d9" />
+  <Project Path="../Project_9_MatrixMultiply/Project_9_MatrixMultiply.vcxproj" Id="3b1fe1b7-5237-4396-9ab7-47375d17e523" />
+  <Project Path="Project1.vcxproj" Id="46af6303-f0a6-4324-bf88-4a6c803b45bd" />
+</Solution>
