@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{38a2cd19-994c-4ee5-9b2c-099878b11f96}</ProjectGuid>
-    <RootNamespace>Project23MayasPasscode</RootNamespace>
+    <ProjectGuid>{59af45ce-d006-4878-805a-8a41e7a6506a}</ProjectGuid>
+    <RootNamespace>Project30BalancesAndWightsProblem</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Project_24_Maya'sPasscode</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Maya%27sPasscode.cpp" />
+    <ClCompile Include="BalancesAndWights.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

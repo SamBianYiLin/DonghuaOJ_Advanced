@@ -24,6 +24,7 @@
     <ProjectGuid>{14e048e1-40be-408d-be93-087a1a22b078}</ProjectGuid>
     <RootNamespace>Project22CalculateFunctionValue</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Project_23_CalculateFunctionValue</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

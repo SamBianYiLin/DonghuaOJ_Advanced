@@ -24,6 +24,7 @@
     <ProjectGuid>{1b18bc79-59fb-4ada-9f39-c6b697030a20}</ProjectGuid>
     <RootNamespace>Project18WaitForWater</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Project_19_WaitForWater</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
